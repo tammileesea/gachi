@@ -10,8 +10,10 @@ namespace gachiBlazorServer.Data.Models
 		public string City { get; set; }
 		public string State { get; set; }
 		public string ZipCode { get; set; }
+		public DateTime CreatedDate { get; set; }
+        public DateTime UpdatedDate { get; set; }
 
-		public OrganizationAddress(string name, string streetLineOne, string streetLineTwo, string city, string state, string zipCode)
+        public OrganizationAddress(string name, string streetLineOne, string streetLineTwo, string city, string state, string zipCode)
 		{
 			Name = name;
 			StreetLineOne = streetLineOne;
