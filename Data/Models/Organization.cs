@@ -8,6 +8,8 @@ namespace gachiBlazorServer.Data.Models
 		public List<OrganizationAddress> Addresses { get; set; }
 		public List<User> Members { get; set; }
 
+		public string Location { get; set;  } // Possibly the city where the Organization is located 
+
 		public Organization()
 		{
 		}
