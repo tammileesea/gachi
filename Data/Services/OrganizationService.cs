@@ -31,12 +31,12 @@ namespace gachiBlazorServer.Data.Services
 
 
         [HttpGet]
-        public async Task<List<Organization>> GetOrganizationsByLocationAsync(string location) //param could be city and zipcode
+        public async Task<List<Organization>> GetOrganizationsByLocationAsync(string city, string zipcode)
         {
-            //Tammi's notes- rather than location, we could likely just query by city or zipcode
-            //so linq would be something like Organization.Select(q => q.Address).Where(t => t.City == city)
-           /* var organizations = await _context.Organizations.Where(x => x.Location == location);
-  
+            
+            
+           /* var organizations = await _context.Organizations.Select(q => q.Address).Where(t => t.City == city);
+            
             return organziations; */
 
             throw new NotImplementedException();
