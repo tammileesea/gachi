@@ -29,18 +29,16 @@ namespace gachiBlazorServer.Data.Services
             throw new NotImplementedException();
         }
 
-
         [HttpGet]
         public async Task<List<Organization>> GetOrganizationsByLocationAsync(string city, string zipcode)
         {
-            
-            
-           /* var organizations = await _context.Organizations.Select(q => q.Address).Where(t => t.City == city);
-            
-            return organziations; */
+             /* var organizations = await _context.Organizations.Select(q => q.Address).Where(t => t.City == city);
+
+              return organziations; */
 
             throw new NotImplementedException();
         }
+
 
         [HttpDelete]
         public Task DeleteOrganization(int id)
