@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# After running the solution locally
+/obj/
+/bin/
+*.sln
+/gachiBlazorServer.sln
+/bin/Debug/net7.0/gachiBlazorServer.dll
+/bin/Debug/net7.0/gachiBlazorServer.pdb
