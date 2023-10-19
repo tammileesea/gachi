@@ -13,7 +13,6 @@
     <None Remove="Data\Services\" />
   </ItemGroup>
   <ItemGroup>
-	  <Folder Include="Data\Models\" />
 	  <Folder Include="Data\Services\" />
   </ItemGroup>
   <ItemGroup>
