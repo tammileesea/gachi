@@ -1,12 +1,15 @@
-﻿using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
-using gachiBlazorServer.Data;
+﻿using gachiBlazorServer.Data;
+using Microsoft.EntityFrameworkCore;
+using gachiBlazorServer.Data.Models;
 
 var builder = WebApplication.CreateBuilder(args);
+ConfigurationManager configuration = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
+builder.Services.AddDbContext<GachiDbContext>( options =>
+    options.UseSqlServer( configuration.GetConnectionString( "GachiConnection" ) ) );
 builder.Services.AddSingleton<WeatherForecastService>();
 
 var app = builder.Build();
