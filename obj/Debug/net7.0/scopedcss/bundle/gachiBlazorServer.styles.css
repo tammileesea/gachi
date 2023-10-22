@@ -1,3 +1,39 @@
+/* _content/gachiBlazorServer/Shared/AddOrg.razor.rz.scp.css */
+.field[b-c9nkpyswix] {
+    position: relative;
+    margin-bottom: 16px;
+}
+
+.field-label[b-c9nkpyswix] {
+    display: block;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.field-input[b-c9nkpyswix] {
+    max-width: 15rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.address[b-c9nkpyswix] {
+    border: 1px solid black;
+}
+
+.btnMain[b-c9nkpyswix] {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    min-height: 34px;
+    padding: 8px 20px;
+    background-color: darkblue;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    text-align: center;
+}
+
 /* _content/gachiBlazorServer/Shared/MainLayout.razor.rz.scp.css */
 .page[b-uwlvysvrms] {
     position: relative;

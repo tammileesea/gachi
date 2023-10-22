@@ -1,0 +1,35 @@
+﻿.field {
+    position: relative;
+    margin-bottom: 16px;
+}
+
+.field-label {
+    display: block;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.field-input {
+    max-width: 15rem;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.address {
+    border: 1px solid black;
+}
+
+.btnMain {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    min-height: 34px;
+    padding: 8px 20px;
+    background-color: darkblue;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    text-align: center;
+}
+

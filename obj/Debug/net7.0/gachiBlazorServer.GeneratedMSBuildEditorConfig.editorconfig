@@ -9,49 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gachiBlazorServer
 build_property.RootNamespace = gachiBlazorServer
-build_property.ProjectDir = /Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/
+build_property.ProjectDir = C:\Users\madag\source\repos\gachi\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer
+build_property.MSBuildProjectDirectory = C:\Users\madag\source\repos\gachi
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/App.razor]
+[C:/Users/madag/source/repos/gachi/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[C:/Users/madag/source/repos/gachi/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[C:/Users/madag/source/repos/gachi/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[C:/Users/madag/source/repos/gachi/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Shared/RequestForm.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1JlcXVlc3RGb3JtLnJhem9y
+[C:/Users/madag/source/repos/gachi/Shared/RequestForm.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFJlcXVlc3RGb3JtLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/_Imports.razor]
+[C:/Users/madag/source/repos/gachi/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-uwlvysvrms
+[C:/Users/madag/source/repos/gachi/Shared/AddOrg.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZE9yZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c9nkpyswix
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-5syf5yfrrb
+[C:/Users/madag/source/repos/gachi/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-uxfsgsib1t
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/madag/source/repos/gachi/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vbj841c662
+
+[C:/Users/madag/source/repos/gachi/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tammilee/Projects/gachiBlazorServer/gachiBlazorServer/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+[C:/Users/madag/source/repos/gachi/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
